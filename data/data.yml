@@ -1,0 +1,21 @@
+categories:
+-conversations
+conversations:
+--Good Morning
+  -Welcome, Good Morning!
+  -Morning!
+--Hello
+  -Hey, How you doing?
+  -Hey, what's up?
+--I am fine but feeling bored
+  -Oh! What do you want me to do?
+  -Can I do something for it?
+--Yes maybe, how can you help me
+  -Ok shall I give your some movie recomendations?
+  -Should I suggest you some songs?
+--Songs sounds good
+  -Okay, listen to this Beautiful by Eminem, maybe it'll make you feel good
+  -Listen to cold/mess by Prateek Kuhad
+--Movies
+  -Watch Gerald's game
+  -Watch The theory of Everything
